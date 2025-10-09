@@ -12,7 +12,7 @@
 <h1 align="center">Привет, Comrade! I am Nawfal</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Frontend+Developer;WhatsApp+Bot+Creator;Computer+Science+Student;Russian+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Bot+Developer;WhatsApp+Bot+Creator;Computer+Science+Student;Russian+Mil+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
