@@ -2,10 +2,6 @@
   <img height="125" src="https://i.ibb.co.com/HL4vt8ZY/Av.webp"  />
 </div>
 
-###
-
-<br clear="both">
-
 <h2 align="center">Nawvalovsky | Cloud & Go Developer | Whatsapp Bot Developer</h2>
 
 ###
