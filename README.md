@@ -54,14 +54,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nawvalovsky/nawvalovsky/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nawvalovsky/nawvalovsky/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nawvalovsky/nawvalovsky/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://count.getloli.com/@:nawvalovsky?theme=booru-r6gdrawfriends&padding=7&scale=0.7&align=top&pixelated=1&darkmode=auto"  />
 </div>
