@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h4 align="center">Nawvalovsky | Cloud & Go Developer | Whatsapp Bot Developer</h4>
+<h2 align="center">Nawvalovsky | Cloud & Go Developer | Whatsapp Bot Developer</h2>
 
 ###
 
